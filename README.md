@@ -46,4 +46,8 @@ Q7: Find the maximum flipper_length_mm for each combination of species and islan
 
 Q8: Perform z-score normalization on this dataset. (code)
 
+Interview Question:
+I have solved the problem in cpp. Initially i have faced problem to figure out the spiral matrix algorithm and once i figured it out i just filled the values in the matrix with the 
+node values in the linked list. If the node is null i replaced them with -1.
+
 
